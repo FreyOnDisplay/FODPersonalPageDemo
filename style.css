@@ -1,0 +1,118 @@
+body {
+	background-image: url('images/Site_Background.webp');
+	margin: 0 auto;
+	width:100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+a{
+	font-size:  25px;
+	font-family: 'Roboto', sans-serif;
+	color:#FFFFFF;
+	text-align:left;
+	line-height:35px;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+h1 {
+	font-size:  115px;
+	font-family: 'Climate Crisis', sans-serif;
+	color:#FFFFFF;
+	letter-spacing: 8px;
+
+}
+
+h2 {
+	font-size:  24px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;
+	text-align:left;
+	margin:35px;
+}
+
+h3 {
+	font-size:  20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:300;
+	text-align:left;
+	margin:35px;
+}
+
+
+.wrapper {
+	height: 100%;
+	width:  100%;
+	margin:0 auto;
+}
+
+.column {
+	display:block;
+	background-color:#00BAB3;
+	height:830px;
+	width:420px;
+	margin:auto;
+	padding-bottom:50px;
+	text-align:center;
+	float:left;
+}
+
+.img1{
+	height:auto;
+	width:auto;
+	margin:0 auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align:center;
+}
+
+.container {
+	height:830px;
+	width:1400px;
+	margin:auto;
+	margin-bottom:50px;
+	margin-left:50px;
+	text-align:center;
+	float:left;
+
+}
+
+.header {
+	height:100px;
+	width:100%;
+	margin:10 auto;
+	text-align:center;
+	float:left;
+	padding:0px;
+	padding-bottom:100px;
+	line-height:50px;
+}
+
+.twocol {
+	display:block;
+	background-color:#ffffff;
+	height:600px;
+	width:640px;
+	float:left;
+	padding-top:15px;
+	margin-inline:25px;
+	border-radius:15px 15px 50px 50px;
+	line-height:32px;
+}
+
+.footer{
+	display: block;
+	background-color:#15172D;
+	height:100%;
+	width:100%;
+	margin:0 auto;
+	float:left;
+	color: #ffffff;
+	text-align:right;
+	line-height:15px;
+	padding-top:25px;
+	padding-bottom:25px;
+	font-size:  20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:300;
+}
